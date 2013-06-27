@@ -1,0 +1,39 @@
+{
+  "name": "grunt-fxos",
+  "version": "0.1.0",
+  "description": "Tools for Firefox OS app development",
+  "main": "Gruntfile.js",
+  "dependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-clean": "~0.4.1",
+    "grunt-contrib-watch": "~0.4.4",
+    "ncp": "~0.4.2",
+    "install": "~0.1.7",
+    "inquirer": "~0.1.7",
+    "unzip": "~0.1.7",
+    "gm": "~1.9.2",
+    "grunt-contrib-compress": "~0.5.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vladikoff/grunt-fxos"
+  },
+  "keywords": [
+    "gruntplugin",
+    "firefox",
+    "firefoxos",
+    "firefox-os",
+    "tools",
+    "app",
+    "apps"
+  ],
+  "author": "vladikoff",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vladikoff/grunt-fxos/issues"
+  }
+}

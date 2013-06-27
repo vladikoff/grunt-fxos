@@ -1,4 +1,4 @@
-# grunt-firefoxos
+# grunt-fxos
 
 <img src="http://v14d.com/grunt-firefoxos.jpg" alt="grunt-firefoxos" />
 
