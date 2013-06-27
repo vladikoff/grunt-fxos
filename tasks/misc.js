@@ -19,7 +19,7 @@ module.exports = function (grunt) {
     // validate commands
     var commands = [
       { name: 'adb', help: 'You need adb to do almost everything.' },
-      { name: 'gitz', required: true, help: 'You need git for everything.' },
+      { name: 'git', required: true, help: 'You need git for everything.' },
       { name: 'pip', help: '' },
       { name: 'fastboot', help: 'You need fastboot if you plan to use fxos-flash' },
       { name: 'xpcshell -v', help: 'You need xpcshell if you plan to use fxos-deploy' },
